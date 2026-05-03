@@ -1,0 +1,52 @@
+STANDARD OPERATING PROCEDURE (SOP)
+Title: Quality Inspection Process
+
+1. Purpose
+To ensure that all products meet the required quality standards before dispatch.
+
+2. Scope
+This procedure applies to all production lines and quality inspection teams.
+
+3. Responsibilities
+- Quality Inspector: Conduct inspections and record results.
+- Supervisor: Review inspection reports and take necessary actions.
+
+4. Procedure
+
+Step 1: Pre-Inspection
+- Verify machine calibration status.
+- Ensure all measuring instruments are available.
+- Check raw materials for compliance.
+
+Step 2: In-Process Inspection
+- Conduct visual inspection for defects.
+- Measure dimensions using appropriate tools.
+- Record findings in the inspection sheet.
+
+Step 3: Post-Inspection
+- Segregate defective products.
+- Label accepted and rejected items clearly.
+- Update inspection records.
+
+5. Defect Classification
+- Critical Defect: Affects safety or usability.
+- Major Defect: Affects performance.
+- Minor Defect: Affects appearance only.
+
+6. Handling Non-Conformance
+- Stop production if defect rate exceeds threshold.
+- Inform supervisor immediately.
+- Initiate corrective action.
+
+7. Documentation
+- Maintain inspection logs.
+- Store records for future audits.
+
+8. Safety Precautions
+- Wear protective equipment.
+- Handle tools carefully.
+- Follow workplace safety guidelines.
+
+9. Review and Approval
+- SOP must be reviewed every 6 months.
+- Approved by Quality Manager.

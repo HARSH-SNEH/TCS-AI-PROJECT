@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is the acceptable defect rate in production?",
+    "answer": "The acceptable defect rate is less than 2% of total output.",
+    "category": "quality standards"
+  },
+  {
+    "question": "What is the first step in quality inspection?",
+    "answer": "The first step is visual inspection of the product for obvious defects.",
+    "category": "inspection"
+  },
+  {
+    "question": "How often should inspections be conducted?",
+    "answer": "Inspections should be conducted every 2 hours during production.",
+    "category": "inspection"
+  },
+  {
+    "question": "What tools are used for dimensional inspection?",
+    "answer": "Vernier calipers and micrometers are used for dimensional inspection.",
+    "category": "tools"
+  },
+  {
+    "question": "What is a critical defect?",
+    "answer": "A critical defect affects safety or makes the product unusable.",
+    "category": "defects"
+  },
+  {
+    "question": "What should be done with defective products?",
+    "answer": "Defective products must be segregated and labeled properly.",
+    "category": "process"
+  },
+  {
+    "question": "What is sampling inspection?",
+    "answer": "Sampling inspection involves checking a subset of products instead of all items.",
+    "category": "inspection"
+  },
+  {
+    "question": "What is rework?",
+    "answer": "Rework is the process of correcting defective products.",
+    "category": "process"
+  },
+  {
+    "question": "What should be done before starting production?",
+    "answer": "Machines should be calibrated and materials verified.",
+    "category": "process"
+  },
+  {
+    "question": "What is calibration?",
+    "answer": "Calibration ensures measuring instruments provide accurate readings.",
+    "category": "tools"
+  },
+  {
+    "question": "What is a quality audit?",
+    "answer": "A quality audit is a systematic review of processes to ensure compliance.",
+    "category": "quality standards"
+  },
+  {
+    "question": "What is a standard operating procedure?",
+    "answer": "A standard operating procedure is a step-by-step instruction document for performing tasks.",
+    "category": "documentation"
+  },
+  {
+    "question": "What is the purpose of pre-inspection?",
+    "answer": "Pre-inspection ensures machines, tools, and materials are ready for production.",
+    "category": "inspection"
+  },
+  {
+    "question": "What is done during in-process inspection?",
+    "answer": "Visual checks and dimensional measurements are performed during production.",
+    "category": "inspection"
+  },
+  {
+    "question": "What is done during post-inspection?",
+    "answer": "Defective items are segregated and inspection results are recorded.",
+    "category": "inspection"
+  }
+]
